@@ -9,17 +9,19 @@ Surveillance. Made Simple.
 
 ```markdown
 <code:block>
+Let's code our way to a new era!
+```
+
 
 # Our Mission 
              : A safe and secure society.
 ## Our Vision 
              : Harnessing tech for benifit of mankind
 ### Our Ideas
-             : A revolutionary design based on [Power Gating](https://semiengineering.com/knowledge_centers/low-power/techniques/power-gating/)
+             : A revolutionary design based on [Power Gating] (https://semiengineering.com/knowledge_centers/low-power/techniques/power-gating/)
 
 
 
-```
 
 - Surveillance is the need of the hour.
 
