@@ -1,30 +1,26 @@
 ## Welcome to VistronX
 
-You can use the [editor on GitHub](https://github.com/vistron-x/vistron-x.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A revolutionary idea in the world of technology.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Surveillance. Made Simple.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Buy Less. Do More.
 
 ```markdown
-Syntax highlighted code block
+<code:block>
 
-# Header 1
-## Header 2
-### Header 3
+# Our Mission
+## Our Vision
+### Our Ideas
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+- Surveillance is the need of the hour.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
 ```
+
+Feel free to go through our [Vision document](https://drive.google.com/file/d/1HVULZEFQpEbBrlTdu-SndBOoQQBrFtA_/view?usp=drivesdk)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -34,4 +30,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+HaSuggestions? Queries? Ideas?  Mail us at vistronx@mail.com
