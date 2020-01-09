@@ -10,7 +10,8 @@ Surveillance. Made Simple.
 ```markdown
 <code:block>
 Let's code our way to a new era!
-```
+
+
 
 
 
@@ -21,7 +22,7 @@ Let's code our way to a new era!
              : Harnessing tech for benifit of mankind
 
 ### Our Ideas
-             : A revolutionary design based on [Power Gating] (https://semiengineering.com/knowledge_centers/low-power/techniques/power-gating/)
+             : A revolutionary design based on [Power Gating](https://semiengineering.com/knowledge_centers/low-power/techniques/power-gating/)
 
 
 
