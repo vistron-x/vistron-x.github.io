@@ -7,10 +7,10 @@ Surveillance. Made Simple.
 
 # Buy Less. Do More.
 
-```markdown
+```
 <code:block>
 Let's code our way to a new era!
-
+```
 
 
 
